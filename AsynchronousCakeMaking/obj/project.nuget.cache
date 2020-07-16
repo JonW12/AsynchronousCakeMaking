@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ngfYH642Kvj4BFmHVLzsfqRdvyBpyjtouzTO3cTqQJedytzCBCQqaE+GyxdFoAJzaUg4/oK9Y0/sxN4YrXTiDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonathanwilliamson\\source\\repos\\AsynchronousCakeMaking\\AsynchronousCakeMaking\\AsynchronousCakeMaking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonathanwilliamson\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
