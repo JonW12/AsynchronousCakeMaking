@@ -1,0 +1,13 @@
+C:\Users\jonathanwilliamson\source\repos\AsynchronousCakeMaking\AsynchronousCakeMaking\bin\Debug\netcoreapp3.1\AsynchronousCakeMaking.exe
+C:\Users\jonathanwilliamson\source\repos\AsynchronousCakeMaking\AsynchronousCakeMaking\bin\Debug\netcoreapp3.1\AsynchronousCakeMaking.deps.json
+C:\Users\jonathanwilliamson\source\repos\AsynchronousCakeMaking\AsynchronousCakeMaking\bin\Debug\netcoreapp3.1\AsynchronousCakeMaking.runtimeconfig.json
+C:\Users\jonathanwilliamson\source\repos\AsynchronousCakeMaking\AsynchronousCakeMaking\bin\Debug\netcoreapp3.1\AsynchronousCakeMaking.runtimeconfig.dev.json
+C:\Users\jonathanwilliamson\source\repos\AsynchronousCakeMaking\AsynchronousCakeMaking\bin\Debug\netcoreapp3.1\AsynchronousCakeMaking.dll
+C:\Users\jonathanwilliamson\source\repos\AsynchronousCakeMaking\AsynchronousCakeMaking\bin\Debug\netcoreapp3.1\AsynchronousCakeMaking.pdb
+C:\Users\jonathanwilliamson\source\repos\AsynchronousCakeMaking\AsynchronousCakeMaking\obj\Debug\netcoreapp3.1\AsynchronousCakeMaking.csprojAssemblyReference.cache
+C:\Users\jonathanwilliamson\source\repos\AsynchronousCakeMaking\AsynchronousCakeMaking\obj\Debug\netcoreapp3.1\AsynchronousCakeMaking.AssemblyInfoInputs.cache
+C:\Users\jonathanwilliamson\source\repos\AsynchronousCakeMaking\AsynchronousCakeMaking\obj\Debug\netcoreapp3.1\AsynchronousCakeMaking.AssemblyInfo.cs
+C:\Users\jonathanwilliamson\source\repos\AsynchronousCakeMaking\AsynchronousCakeMaking\obj\Debug\netcoreapp3.1\AsynchronousCakeMaking.csproj.CoreCompileInputs.cache
+C:\Users\jonathanwilliamson\source\repos\AsynchronousCakeMaking\AsynchronousCakeMaking\obj\Debug\netcoreapp3.1\AsynchronousCakeMaking.dll
+C:\Users\jonathanwilliamson\source\repos\AsynchronousCakeMaking\AsynchronousCakeMaking\obj\Debug\netcoreapp3.1\AsynchronousCakeMaking.pdb
+C:\Users\jonathanwilliamson\source\repos\AsynchronousCakeMaking\AsynchronousCakeMaking\obj\Debug\netcoreapp3.1\AsynchronousCakeMaking.genruntimeconfig.cache
